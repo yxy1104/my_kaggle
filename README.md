@@ -3,10 +3,10 @@
 
 Finished: 
 * Titanic Survival Prediction
-
-In Progress: 
 * Housing Price Prediction in Ames, Iowa
 
-Upcoming:
+In Progress: 
 * MNIST digital recognition
+
+Upcoming:
 * NLP with disaster tweets
